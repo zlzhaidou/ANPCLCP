@@ -4,7 +4,7 @@ using System.Text.RegularExpressions;
 using Terraria.ModLoader;
 using Terraria.UI.Chat;
 
-namespace AlchemistNPCChinesePack.GlobalTranslation
+namespace ANPCLCP.GlobalTranslation
 {
     public class StatsTranslate : ModSystem
     {
